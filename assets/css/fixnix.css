@@ -4292,6 +4292,7 @@ ul {
 .footer-widget__services-list li {
   position: relative;
   display: block;
+  color: #fff;
 }
 
 .footer-widget__services-list li + li {
@@ -4303,7 +4304,7 @@ ul {
   display: flex;
   align-items: center;
   font-size: 16px;
-  color: var(--fixnix-white);
+  color: #fff;
   padding-left: 15px;
   transition: all 500ms ease;
 }
@@ -5568,7 +5569,7 @@ ul {
   background-image: -webkit-linear-gradient(
     90deg,
     rgb(23, 26, 29) 40%,
-    rgb(207, 31, 31) 100%
+    #0d2d78 100%
   );
   background-image: -ms-linear-gradient(
     90deg,
