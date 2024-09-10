@@ -4942,6 +4942,11 @@ ul {
   transition: all 500ms ease;
 }
 
+.icon-sobre {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 .contact-two__details li:hover .icon {
   background-color: var(--fixnix-black);
 }
@@ -4975,7 +4980,7 @@ ul {
 }
 
 .contact-two__details li .content p {
-  font-size: 18px;
+  font-size: 13px;
   line-height: 18px;
 }
 
