@@ -2474,6 +2474,22 @@ ul {
   display: block;
 }
 
+.nptec-service{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  background-color: var(--fixnix-base);
+  border-radius: 50%;
+  font-size: 30px;
+  color: var(--fixnix-white);
+  transition: all 500ms linear;
+  transition-delay: 0.1s;
+  transform: scale(1);
+}
+
 .experience-one__icon span {
   position: relative;
   display: flex;
