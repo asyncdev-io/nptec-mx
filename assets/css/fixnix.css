@@ -4640,7 +4640,7 @@ ul {
   border-radius: var(--fixnix-bdr-radius);
 }
 
-.logo-azul{
+.logo-azul {
   width: 265px;
   height: 290px;
 }
@@ -7437,7 +7437,7 @@ ul {
   left: 0;
   right: 0;
   bottom: 100%;
-  background-color: var(--fixnix-base);
+  background-color: transparent;
   border-radius: 6px;
   mix-blend-mode: multiply;
   transition: all 600ms ease 100ms;
@@ -7447,6 +7447,7 @@ ul {
 .team-one__single:hover .team-one__img:before {
   top: 0;
   bottom: 0;
+  background-color: transparent;
 }
 
 .team-one__img img {
@@ -8138,7 +8139,6 @@ ul {
   position: relative;
   display: block;
   padding-bottom: 120px;
-  
 }
 
 .google-map__one {
